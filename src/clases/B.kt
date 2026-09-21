@@ -17,4 +17,5 @@ class Circle(var radius: Double) {
 
 fun main(){
     val c = Circle(4.0)
+    print(c)
 }
