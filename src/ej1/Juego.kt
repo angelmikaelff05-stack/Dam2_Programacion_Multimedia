@@ -49,6 +49,8 @@ fun main() {
     else if(puntosPlayer < puntosBot){println("GANADOR $bot")}
     else{println("EMPATE")}
 
+    println("Ahora si")
+
 
 
 }
